@@ -8,23 +8,6 @@
 > Memories App, where you can post interesting events that happened in your lives
 
 
-
-
-### <h2 align="center">  💫💫💫  &nbsp; [Live Demo](https://hao-memories-mern-app.netlify.app/) 💫💫💫  </h2>
-
-
-
-## 📜 &nbsp; Table of contents
-
-- [Introduction](#--introduction)
-- [Main Features](#--main-features)
-- [Setup](#--setup)
-- [Demo](#--demo)
-- [Technologies](#--technologies)
-- [Key Concepts](#--key-concepts)
-- [Author](#--author)
-
-
 <h1></h1>
 
 ## ⭐ &nbsp; Introduction
